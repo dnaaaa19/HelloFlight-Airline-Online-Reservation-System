@@ -1,29 +1,32 @@
-# Online Flight System (PHP & MySQL)
+# HelloFlight Airline Online Reservation System ✈️
 
-An Online Flight Booking System developed using **PHP** and **MySQL**.  
-This project is designed for learning purposes and demonstrates a basic flight reservation workflow.
+HelloFlight is a web-based airline booking platform designed to provide an efficient and reliable flight reservation experience. Built using PHP and MySQL, the system features a role-based architecture that caters to both travelers and airline administrators through a clean and interactive interface.
 
+## Key Features
 
-## Features
+### User & Passenger Management
+The system allows users to search for available flights as guests or registered members. Once logged in, passengers can manage their profiles, book tickets, and provide feedback through post-flight reviews.
 
-### User
-- User registration & login
-- View available flights
-- Book a flight
-- View personal booking history
+### Administrative Control Center
+A robust admin dashboard enables full management of the airline's operations. Admins can schedule new flights, manage airline information, and analyze user reviews to improve service quality.
 
-### Admin
-- Admin login
-- Add new flights
-- Update flight information
-- Delete flights
-- View all bookings
+### Integrated Booking & Payment
+HelloFlight simplifies the travel process by allowing users to search flights, view detailed itineraries, and proceed to a secure ticket booking and payment simulation in one continuous flow.
 
----
+### Data Consistency & Security
+The system utilizes a structured MySQL database to ensure data integrity across various modules, including passenger details, flight schedules, and transaction records.
 
 ## Technologies Used
-- PHP (Native)
-- MySQL
-- Apache (XAMPP)
-- HTML, CSS
-- JavaScript (basic)
+
+* **Web Technologies:** HTML, CSS, and JavaScript for an interactive and responsive UI.
+* **Server-Side Scripting:** PHP for core application logic and user session management.
+* **Database Management:** MySQL for secure and organized storage of flight and user data.
+* **CRUD Operations:** Integrated Create, Read, Update, and Delete functions across all modules.
+
+---
+**Developed by Group Members:**
+* Dina Aurelia
+* Wiewien Tancaniago
+* Zikra Rachma Zeity
+
+*Information System Study Program - President University*
