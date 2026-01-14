@@ -1,4 +1,4 @@
-# HelloFlight Airline Online Reservation System ✈️
+# HelloFlight Airline Online Reservation System 
 
 HelloFlight is a web-based airline booking platform designed to provide an efficient and reliable flight reservation experience. Built using PHP and MySQL, the system features a role-based architecture that caters to both travelers and airline administrators through a clean and interactive interface.
 
@@ -22,11 +22,3 @@ The system utilizes a structured MySQL database to ensure data integrity across 
 * **Server-Side Scripting:** PHP for core application logic and user session management.
 * **Database Management:** MySQL for secure and organized storage of flight and user data.
 * **CRUD Operations:** Integrated Create, Read, Update, and Delete functions across all modules.
-
----
-**Developed by Group Members:**
-* Dina Aurelia
-* Wiewien Tancaniago
-* Zikra Rachma Zeity
-
-*Information System Study Program - President University*
